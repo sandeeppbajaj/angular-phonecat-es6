@@ -1,0 +1,27 @@
+{
+  "name": "angular-phonecat-es6",
+  "description": "Converting angular phone cat tutorial",
+  "main": "index.js",
+  "authors": [
+    "Sandeep Bajaj"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "es6",
+    "phonecat"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
